@@ -1,0 +1,10 @@
+C:\Users\abodi\source\repos\Verschieben (Chiffre)\Verschieben (Chiffre)\bin\Debug\Verschieben (Chiffre).exe.config
+C:\Users\abodi\source\repos\Verschieben (Chiffre)\Verschieben (Chiffre)\bin\Debug\Verschieben (Chiffre).exe
+C:\Users\abodi\source\repos\Verschieben (Chiffre)\Verschieben (Chiffre)\bin\Debug\Verschieben (Chiffre).pdb
+C:\Users\abodi\source\repos\Verschieben (Chiffre)\Verschieben (Chiffre)\obj\Debug\Verschieben (Chiffre).csprojAssemblyReference.cache
+C:\Users\abodi\source\repos\Verschieben (Chiffre)\Verschieben (Chiffre)\obj\Debug\Verschieben__Chiffre_.Form1.resources
+C:\Users\abodi\source\repos\Verschieben (Chiffre)\Verschieben (Chiffre)\obj\Debug\Verschieben__Chiffre_.Properties.Resources.resources
+C:\Users\abodi\source\repos\Verschieben (Chiffre)\Verschieben (Chiffre)\obj\Debug\Verschieben (Chiffre).csproj.GenerateResource.cache
+C:\Users\abodi\source\repos\Verschieben (Chiffre)\Verschieben (Chiffre)\obj\Debug\Verschieben (Chiffre).csproj.CoreCompileInputs.cache
+C:\Users\abodi\source\repos\Verschieben (Chiffre)\Verschieben (Chiffre)\obj\Debug\Verschieben (Chiffre).exe
+C:\Users\abodi\source\repos\Verschieben (Chiffre)\Verschieben (Chiffre)\obj\Debug\Verschieben (Chiffre).pdb
